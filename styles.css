@@ -46,12 +46,12 @@
  
  /* page header */
  header {
-    background: navy;
+    background: forestgreen;
     width: 100%;
     color: #FFFFFF;
-    font-size: 48px;
+    font-size: 24px;
     text-align: center;
-    line-height: 1.1em;
+    line-height: .7em;
  }
  
  /* main content */
