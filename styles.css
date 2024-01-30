@@ -7,22 +7,23 @@ html {
    border: 3px solid;
    padding: 10px;
 }
-   body {
+body {
    font-family: Verdana, Geneva, sans-serif;
    text-align: left;
    background: rgb(115, 147, 104);
    position: relative;
    white-space: nowrap;
+   font-size: .75em;
 }
- 
- ol, ul {
-    list-style: none;
+
+ol, ul {
+   list-style: none;
 }
- 
- /* page header */
-   header {
-      background: rgb(115, 147, 104);
-      font-size: 1.5em;
+
+/* page header */
+header {
+   background: rgb(115, 147, 104);
+   font-size: 1em;
    text-align: left;
    line-height: auto;
    border-bottom: 2px dotted white;
