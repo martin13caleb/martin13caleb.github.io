@@ -1,3 +1,15 @@
+@media only screen and (max-width: 600px){
+html{
+   background: rgb(160, 51, 181);
+   color: white;
+   max-width: 1920px;
+   margin: auto;
+   width: 75%;
+   border: 3px solid;
+   padding: 10px;
+}
+}
+
 html {
    background: rgb(115, 147, 104);
    color: white;
