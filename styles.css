@@ -16,6 +16,7 @@ body {
  
  /* page header */
  header {
+   background: #6397eb;
     width: 100%;
     font-size: 24px;
     text-align: center;
@@ -24,6 +25,7 @@ body {
  
  /* main content */
  article {
+   background: #6397eb;
     width: 960px;
     text-align: left;
     position: relative;
