@@ -19,7 +19,7 @@ body {
    background: #6397eb;
    width: 650px;
    font-size: 24px;
-   text-align: left;
+   /*text-align: left;*/
    line-height: auto;
    border-bottom: 2px dotted white;
  }
