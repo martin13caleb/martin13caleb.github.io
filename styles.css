@@ -11,7 +11,7 @@
    }
    
    html {
-      background: rgb(115, 147, 104);
+      background: black;/*rgb(115, 147, 104);*/
       color: white;
       max-width: 1920px;
       margin: auto;
@@ -40,10 +40,10 @@
       line-height: auto;
       border-bottom: 2px dotted white;
       white-space: nowrap;
-      top: 0;
+      /*top: 0;
       position: sticky;
       z-index: 20;
-      background-color: #666;
+      background-color: #666;*/
    }
 
    a:link {
