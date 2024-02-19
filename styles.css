@@ -11,7 +11,7 @@
    }
    
    html {
-      background: black;/*rgb(115, 147, 104);*/
+      background: rgb(115, 147, 104);
       color: white;
       max-width: 1920px;
       margin: auto;
