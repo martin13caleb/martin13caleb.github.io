@@ -11,7 +11,7 @@
    }
    
    html {
-      background: rgb(115, 147, 104);
+      background: rgb(37, 57, 30);
       color: white;
       max-width: 1920px;
       margin: auto;
@@ -24,11 +24,15 @@
    body {
       font-family: Verdana, Geneva, sans-serif;
       text-align: left;
-      background: rgb(115, 147, 104);
+      background: rgb(37, 57, 30);
       position: relative;
       white-space: nowrap;
       font-size: .75em;
       border: 3px solid;
+      word-wrap: break-all;
+   }
+   h1{
+      font-size: 1.5em;
    }
    
    ol, ul {
@@ -40,8 +44,7 @@
 
    /* page header */
    header {
-      background: rgb(115, 147, 104);
-      font-size: 1em;
+      background: rgb(37, 57, 30);      font-size: 1em;
       font-weight: bold;
       text-align: left;
       line-height: auto;
