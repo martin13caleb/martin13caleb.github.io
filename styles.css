@@ -26,10 +26,12 @@
       text-align: left;
       background: rgb(37, 57, 30);
       position: relative;
-      white-space: nowrap;
+      /* white-space: nowrap; */
       font-size: .75em;
       border: 3px solid;
-      word-wrap: break-all;
+      /* word-wrap: break-all; */
+      word-wrap: break-word;
+      overflow-wrap: break-word;
    }
    h1{
       font-size: 1.5em;
